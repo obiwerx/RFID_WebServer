@@ -7,7 +7,9 @@ commented the code pretty well, but there is a few things you'll
 need to do to get it to work:
 
 *Copy the enclosed libraries to your Arduino Libraries folder.
+
 *Change the MAC address to the MAC address of your Arduino Ethernet.
+
 *Change the IP address to something reachable on your network.
 
 ##Happy hacking!
